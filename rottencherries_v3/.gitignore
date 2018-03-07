@@ -1,0 +1,4 @@
+__pycache__
+.idea
+migration
+settings_secret.py
