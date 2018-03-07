@@ -2,3 +2,4 @@ __pycache__
 .idea
 migration
 settings_secret.py
+db.sqlite3
